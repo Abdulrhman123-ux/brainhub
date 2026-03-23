@@ -188,3 +188,12 @@ Then update the `admins` table in your DB.
 - ✅ Stunning dark neon UI with animations
 - ✅ Fully responsive design
 - ✅ Clean, readable code — no bloat
+
+## Screenshots
+
+![Screenshot 1](Screenshot%202026-03-23%20144341.png)
+![Screenshot 2](Screenshot%202026-03-23%20144402.png)
+![Screenshot 3](Screenshot%202026-03-23%20144410.png)
+![Screenshot 4](Screenshot%202026-03-23%20144414.png)
+![Screenshot 5](Screenshot%202026-03-23%20144422.png)
+
